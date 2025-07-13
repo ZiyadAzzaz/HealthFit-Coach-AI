@@ -60,6 +60,8 @@ Your own personal trainer, diet planner, and AI consultant — ready to help you
 ## 📸 Demo Preview
 
 ![demo](./demo.jpg)
+![demo_1](./demo_1.jpg)
+![demo_2](./demo_2.jpg)
 
 ---
 
