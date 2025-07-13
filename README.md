@@ -72,7 +72,7 @@ This project was created to explore how **Generative AI** can offer real-world i
 ## 👨‍💻 Author
 
 **Ziyad Azzaz**  
-🔗 LinkedIn: [linkedin.com/in/ZiyadAzzaz](https://www.linkedin.com/in/ziyadazzaz)
+🔗 LinkedIn: [linkedin.com/in/ZiyadAzzaz](https://www.linkedin.com/in/ziyad-azzaz)
 
 ---
 
